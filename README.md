@@ -84,4 +84,4 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 [npm-downloads]: https://img.shields.io/npm/dw/three
 [npmtrends-url]: https://www.npmtrends.com/three
 [lgtm]: https://img.shields.io/lgtm/alerts/github/mrdoob/three.js
-[lgtm-url]: https://lgtm.com/projects/g/mrdoob/three.js/
+[lgtm-url]: https://github.com/santosharron/threejs-earthsample/three.js/
