@@ -1,1 +1,1 @@
-# threejs-earthsample
+# Three-Js Intermediate Course
