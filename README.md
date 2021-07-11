@@ -1,4 +1,5 @@
-three.js
+# Three-Js Intermediate Course (Second Edition)
+
 ========
 
 [![NPM Package][npm]][npm-url]
