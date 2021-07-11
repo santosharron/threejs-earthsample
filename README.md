@@ -74,7 +74,7 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 
 ### Change log ###
 
-[Releases](https://github.com/mrdoob/three.js/releases)
+[Releases](https://github.com/santosharron/threejs-earthsample/releases)
 
 
 [npm]: https://img.shields.io/npm/v/three
