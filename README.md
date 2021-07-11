@@ -1,1 +1,1 @@
-# Three-Js Intermediate Course
+# Three-Js Intermediate Course (Second Edition)
